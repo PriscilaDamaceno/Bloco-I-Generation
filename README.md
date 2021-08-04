@@ -1,3 +1,5 @@
 <h4 align="center"> 
-	🚧  Aprendizagem 🤓 Desenvolvendo...  🚧
+	🚧  Aprendizagem ☕🤓
+	
 </h4>
+
